@@ -1,4 +1,4 @@
-# Build-a-web-app-using-Python-Flask
+# Web app with taking note function
 This project is my first web app project.I try to build a web app with two funtions, which are taking note and asking question anonymously.
 
 And this web app is make for our lab, since we need to have a meeting on Wednesday and make the weekly report.Sometimes, teacher and classmates will have an amazing question, but will forgot quickly.Therefore I make this project try to solve the problem.
@@ -31,9 +31,6 @@ In this app we build three table with sqlite.
 
 
 * ### Screenshot
-#### Home Page
-![](https://i.imgur.com/KyJqJ30.png)
-
 #### Sign up
 ![](https://i.imgur.com/Mj8B0TT.png)
 
